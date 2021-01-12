@@ -1,3 +1,3 @@
 # Respositório de Teste
 
-![GitHub](https://github.com/jocaetano1)
+[GitHub](https://github.com/jocaetano1)
